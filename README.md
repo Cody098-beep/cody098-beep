@@ -12,9 +12,8 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
-- 📷 [Instagram](https://www.instagram.com/_bhavana.official_)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavana-agrawal)
 - 📧 Email: bagrawal525@gmail.com
 
