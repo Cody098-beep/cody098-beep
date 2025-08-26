@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,Programmers!👋;I'm+Bhavana+Agrawal...;This+is+my+profile!&center=true&size=30!>
   </a>
-</h1>
+      </h1>
 
 ### 🙋‍♀️ About Me
 
