@@ -10,14 +10,10 @@
 - 🎯 Goal: To become a skilled full-stack developer and build impactful tech solutions  
 - 💼 Actively seeking internships in **web development** or **software engineering**
 
----
-
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavana-agrawal)
 - 📧 Email: bagrawal525@gmail.com
-
----
 
 ### ⚒️ Tech Stack & Tools
 
@@ -29,34 +25,11 @@
 
 <br/><br/>
 
-
-
-
----
-
 ### ⚡ Fun Facts
 
 - 📚 I’m a member of **Nirman**, a non-profit community  
 - 👩‍🏫 Participated in **Smart India Hackathon** & college hackathons  
 - 🧘‍♀️ I believe in learning continuously & growing every day
 
----
-
 > 💡 *"Code. Create. Contribute. Repeat."*  
 > – Bhavana Agrawal
-
-
-<!--
-**Cody098-beep/cody098-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
