@@ -7,10 +7,12 @@
 
 ### 🙋‍♀️ About Me
 
-- 👩‍💻 3rd-year BTech CSE student at **BK Birla Institute of Engineering & Technology**
-- 🎯 Goal: To become a skilled full-stack developer and build impactful tech solutions  
-- 💼 Actively seeking internships in **web development** or **software engineering**
+Hello! 
+I'm Bhavana Agrawal
 
+Building Scalable Web Applications
+
+Always Learning • Always Building
 ---
 
 ### 📫 Let's Connect
@@ -22,20 +24,51 @@
 
 ### ⚒️ Tech Stack & Tools
 
-<p align="left">
-  <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"/>
-  <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"/>
-  <img alt="Tailwind CSS" width="30px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>
-  <img alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"/>
-</p>
+
+**Languages**
+- JavaScript • Python • Java • SQL • HTML • CSS
+
+**Frontend**
+- React.js • Next.js • Tailwind CSS
+
+**Backend**
+- Node.js • FastAPI • REST APIs
+
+**Database**
+- MongoDB
+
+**AI / ML**
+- TensorFlow • Scikit-learn • NumPy • Pandas
+
+**Tools**
+- Git • GitHub • VS Code • Postman • Thunder Client • MongoDB Atlas
+
+---
+
+### 🌱 Currently Learning
+
+- System Design Fundamentals
+- Data Structures & Algorithms
+- Backend Development
+- AI-powered Applications
+
+---
+
+### ⚡ Beyond Coding
+
+-  I enjoy learning new technologies and solving real-world problems.
+-  I like building projects that combine software development with AI.
+-  Always looking for opportunities to learn, collaborate, and grow.
+
+> *"Building software that solves real problems, one project at a time."*
 
 ---
 
 ### ⚡ Fun Facts
 
-- 📚 Member of **Nirman**, a non-profit community  
-- 👩‍🏫 Participated in **Smart India Hackathon** & college hackathons  
-- 🧘‍♀️ Passionate about continuous learning and personal growth
+-  Member of **Nirman**, a non-profit community  
+-  Participated in **Smart India Hackathon** & college hackathons  
+-  Passionate about continuous learning and personal growth
 
 > 💡 *"Code. Create. Contribute. Repeat."*  
 > – Bhavana Agrawal
